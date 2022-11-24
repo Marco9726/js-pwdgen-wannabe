@@ -4,7 +4,8 @@
   //1 - Chiedere il nome
   //2 - Chiedere il cognome
   //3 - Chiedere il colore preferito
-  //4 - Inserisco ivalori nell'HTML
-    //4.1 - recupero i valori nome,cognome,colore
-    //4.2 - sommo i valori da inserire nell'html
+  //4 - Definire il valore 21
+  //5 - Inserisco ivalori nell'HTML
+    //5.1 - recupero i valori nome,cognome,colore
+    //5.2 - sommo i valori da inserire nell'html
 
