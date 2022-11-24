@@ -1,0 +1,10 @@
+//PROBLEMA: Chiedi all’utente il suo nome, poi chiedi il suo cognome, 
+  poi chiedi il suo colore preferito Infine scrivi sulla pagina nomecognomecolorepreferito21.
+
+  //1 - Chiedere il nome
+  //2 - Chiedere il cognome
+  //3 - Chiedere il colore preferito
+  //4 - Inserisco ivalori nell'HTML
+    //4.1 - recupero i valori nome,cognome,colore
+    //4.2 - sommo i valori da inserire nell'html
+
